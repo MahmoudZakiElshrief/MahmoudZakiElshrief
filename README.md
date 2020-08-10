@@ -12,7 +12,7 @@ This page contains non-academic material including (certificates, continuing or 
 |-------------|-------------|
 |**1. Data Analysis Track** |[View Certificate](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/78c6a56b-f71c-4cf1-af3d-583e270a507e.pdf)|
 |**2. Front End Development Track** |[View Certificate](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/aef41fc7-e6c2-467b-baf9-223db3e6a76a.pdf)|
-|**3. Full Stack Development Track ** |[View Certificate](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/41ecefd0-f8bc-4867-b856-82a606745216.pdf)|
+|**3. Full Stack Development Track** |[View Certificate](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/41ecefd0-f8bc-4867-b856-82a606745216.pdf)|
 
 
 --------------------------------------------------
