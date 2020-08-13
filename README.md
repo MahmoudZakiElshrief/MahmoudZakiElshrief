@@ -1,5 +1,5 @@
 
-This page contains non-academic material including (certificates, continuing or professional education courses) and the required specialization (Machine Learning specialization) I’m applying for, I’ve organized the certificates according to the educational platform. 
+This page contains non-academic material including (certificates, continuing or professional education courses) . 
 
 
 
