@@ -47,8 +47,7 @@ This page contains non-academic material including (certificates, continuing or 
 |**11. Microsoft Digital storytelling with Microsoft Sway** |[View Certificate](https://education.microsoft.com/en-us/profile/achievement/480189/certificate)|
 |**12. Microsoft Introduction to Skypein the Classroom** |[View Certificate](https://education.microsoft.com/en-us/profile/achievement/481943/certificate)|
 |**13. Microsoft Training teachers to author accessible content** |[View Certificate](https://education.microsoft.com/en-us/profile/achievement/486761/certificate)|
-|**14. Microsoft OneNote Class Notebook: A teacher's all-in-one notebook
-for students** |[View Certificate](https://education.microsoft.com/en-us/profile/achievement/475928/certificate)|
+|**14. Microsoft OneNote Class Notebook: A teacher's all-in-one notebook for students** |[View Certificate](https://education.microsoft.com/en-us/profile/achievement/475928/certificate)|
 |**15. Microsoft Getting Started with OneNote** |[View Certificate](https://education.microsoft.com/en-us/profile/achievement/484943/certificate)|
 |**16. Microsoft Forms: Creating Authentic Assessments** |[View Certificate](https://education.microsoft.com/en-us/profile/achievement/480169/certificate)|
 |**17. Microsoft Building Blocks of Code 2** |[View Certificate](https://education.microsoft.com/en-us/profile/achievement/478994/certificate)|
