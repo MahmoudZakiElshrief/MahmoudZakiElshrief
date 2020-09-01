@@ -25,6 +25,15 @@ It was recorded based on the English alphabetical order of the sources of certif
 
 --------------------------------------------------
 
+- ### Google
+
+
+| The name of the certificate | Certificate ID    | View Certificate |
+|-----------------------------|-------------------|------------------|
+|**1. Digital-Marketing** |**7UA MJZ CXL** |[View Certificate](https://courses.edraak.org/certificates/1cfc66560c184100ac9c86370177e270)|
+
+--------------------------------------------------
+
 - ### Microsoft | Educator Center
 
 
